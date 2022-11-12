@@ -1,1 +1,3 @@
 file after cloning
+
+my file
